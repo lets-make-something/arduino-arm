@@ -1,4 +1,5 @@
-# python-simple-template
+# arduino-arm
+
 
 [![Build Status](https://travis-ci.org/lets-make-something/arduino-arm.png?branch=master)](https://travis-ci.org/lets-make-something/arduino-arm)
 
